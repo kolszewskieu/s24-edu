@@ -4,10 +4,10 @@
     <title>edu</title>
     <description>Edukacja
 </description>
-    <link>edukacja.segregatory24.pl/</link>
-    <atom:link href="edukacja.segregatory24.pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 May 2017 11:13:03 +0200</pubDate>
-    <lastBuildDate>Tue, 16 May 2017 11:13:03 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 16 May 2017 11:24:06 +0200</pubDate>
+    <lastBuildDate>Tue, 16 May 2017 11:24:06 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
   </channel>
